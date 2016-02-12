@@ -1,0 +1,20 @@
+cpan -i Digest::SHA1 -- Completed
+cpan -i Cache::Cache -- Completed
+cpan -i Devel::StackTrace -- Completed
+cpan -i Class::Data::Inheritable -- Completed
+cpan -i Exception::Class -- Completed
+cpan -i Params::Validate -- Completed
+cpan -i Class::Container -- Completed
+cpan -i DBD::Oracle -- Errors
+cpan -i Text::Reform -- Completed
+cpan -i IO::Tee -- Completed
+cpan -i DBI::Shell -- Completed
+cpan -i Frontier::RPC missing
+cpan -i XML::Simple -- Completed
+cpan -i XML::LibXML -- Completed
+cpan -i XML::LibXSLT -- Missing
+cpan -i DBD::PgPP
+cpan -i LWP::UserAgent::Determined
+cpan -i OLE::Storage_Lite
+cpan -i Spreadsheet::ParseExcel
+cpan -i DBIx::ProcedureCall
